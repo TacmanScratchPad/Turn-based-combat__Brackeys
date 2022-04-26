@@ -1,0 +1,3 @@
+[submodule "Turn-based-combat/Assets/NorLibUnity"]
+	path = Turn-based-combat/Assets/NorLibUnity
+	url = git@github.com:tacman/NorLibUnity.git
